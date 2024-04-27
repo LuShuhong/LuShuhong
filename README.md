@@ -1,4 +1,6 @@
-[![MasterHead](https://i.imgur.com/eb44ycV.gif)](https://shuhong.netlify.app)
+<a href="https://shuhong.netlify.app/">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoZnJxamVpd29wYjduMHIydnI5aWIwaWMxa3JhMW92cGt5dmVxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EbaRrovn0j0sQuQDJA/giphy.gif" alt="MasterHead" width="100%">
+</a>
 <h1 align="center">Hi 👋, I'm Shuhong Lu</h1>
 <h3 align="center">Building robust, scalable software solutions with Java</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif">
@@ -9,12 +11,19 @@
 
 - 📫 How to reach me **uklawson@gmail.com**
 
-<h3 align="left">📄 Know about me</h3>
+
+<h4 align="left">📄 More about me</h4>
+
 - 🖥️ Currently crafting software solutions as a Software Engineer at THG, blending my analytical background with cutting-edge tech to drive innovation.
+
 - 📈 Business Analyst at Amazon with a track record of driving growth through data-driven insights. I specialise in turning complex data into actionable strategies.
+
 - 🏢 Prior experiences include Investment Banking Analyst at J.P.Morgan, focusing on M&A; Data Analyst at Tencent, analysing gaming data to inform marketing strategies; Risk Advisory Associate at Deloitte LLP, specialising in the insurance sector; and Private Banking Analyst at Bank of China.
+
 - 🎓 Proud alumnus of University College London with a Master's in Economics, diving deep into Equality, Diversity, and Inclusion research. Also, hold a First-Class Honours from the University of Bath. 🔍 On the academic side, I've expanded my skill set through projects in Machine Learning at Harvard and Business Analytics at Wharton.
+
 - 💡 Proficient in Java, SQL, Python, Javascript, and more. I'm always eager to apply my multilingual capabilities (English, Mandarin, Cantonese, Czech) in global projects.
+
 - 🔑 Certified in Cybersecurity, Azure Data Fundamentals, and AWS Cloud.
 
 <h3 align="left">Connect with me:</h3>
