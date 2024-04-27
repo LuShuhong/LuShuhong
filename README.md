@@ -27,8 +27,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lushuhong&show_icons=true&locale=en" alt="lushuhong" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lushuhong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lushuhong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lushuhong&" alt="lushuhong" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lushuhong&&theme=tokyonight" alt="lushuhong" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lushuhong" alt="lushuhong" /></a> </p>
