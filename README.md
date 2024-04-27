@@ -1,5 +1,5 @@
 <a href="https://shuhong.netlify.app/">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoZnJxamVpd29wYjduMHIydnI5aWIwaWMxa3JhMW92cGt5dmVxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EbaRrovn0j0sQuQDJA/giphy.gif" alt="MasterHead" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxrN29wOGN3bWExYTgzd3FsazNocGF1bGZ5ZDFhenh1eG92cndkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhhAy6DOu2dSFV3ggt/giphy.gif" alt="MasterHead" width="100%">
 </a>
 <h1 align="center">Hi 👋, I'm Shuhong Lu</h1>
 <h3 align="center">Building robust, scalable software solutions with Java</h3>
@@ -36,9 +36,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lushuhong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lushuhong" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lushuhong&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="lushuhong" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lushuhong&&theme=tokyonight" alt="lushuhong" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lushuhong&&theme=catppuccin_latte" alt="lushuhong" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lushuhong" alt="lushuhong" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lushuhong&margin-w=15" alt="lushuhong" /></a> </p>
 
