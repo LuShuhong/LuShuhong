@@ -14,17 +14,17 @@
 
 <h4 align="left">📄 More about me</h4>
 
-- 🖥️ Currently crafting software solutions as a Software Engineer at THG, blending my analytical background with cutting-edge tech to drive innovation.
+- 🖥️ Currently crafting software solutions as a Software Engineer, blending my analytical background with cutting-edge tech to drive innovation.
 
 - 📈 Business Analyst at Amazon with a track record of driving growth through data-driven insights. I specialise in turning complex data into actionable strategies.
 
 - 🏢 Prior experiences include Investment Banking Analyst at J.P.Morgan, focusing on M&A; Data Analyst at Tencent, analysing gaming data to inform marketing strategies; Risk Advisory Associate at Deloitte LLP, specialising in the insurance sector; and Private Banking Analyst at Bank of China.
 
-- 🎓 Proud alumnus of University College London with a Master's in Economics, diving deep into Equality, Diversity, and Inclusion research. Also, hold a First-Class Honours from the University of Bath. 🔍 On the academic side, I've expanded my skill set through projects in Machine Learning at Harvard and Business Analytics at Wharton.
+- 🎓 Proud alumnus of University College London with a Master's in Economics. Also, hold a First-Class Honours from the University of Bath. I've also expanded my skill set through projects in Machine Learning at Harvard and Business Analytics at Wharton.
 
 - 💡 Proficient in Java, SQL, Python, Javascript, and more. I'm always eager to apply my multilingual capabilities (English, Mandarin, Cantonese, Czech) in global projects.
 
-- 🔑 Certified in Cybersecurity, Azure Data Fundamentals, and AWS Cloud.
+- 🔑 Certified in Cybersecurity, Azure Data Fundamentals, and AWS Solutions Architect.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
