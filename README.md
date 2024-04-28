@@ -52,9 +52,11 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lushuhong&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="lushuhong" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lushuhong&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="lushuhong" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lushuhong&&theme=catppuccin_latte" alt="lushuhong" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lushuhong&show_icons=true&locale=en&theme=catppuccin_latte" alt="lushuhong" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lushuhong&theme=catppuccin_latte" alt="lushuhong" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lushuhong&margin-w=15" alt="lushuhong" /></a> </p>
 
